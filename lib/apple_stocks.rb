@@ -15,4 +15,3 @@ def get_max_profit(stock_prices_yesterday)
 end
 
 puts get_max_profit([10, 7, 5, 8, 11, 9])
-# puts get_max_profit([10, 7, 5])
